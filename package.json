@@ -1,0 +1,17 @@
+{
+  "name": "hapi-example",
+  "version": "1.0.0",
+  "description": "A crazy simple example of using the Walmart API with hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jack Herrington <jherrington@walmartlabs.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^9.0.3",
+    "inert": "^3.0.1",
+    "walmart": "0.0.2"
+  }
+}

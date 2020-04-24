@@ -12,6 +12,6 @@
   "dependencies": {
     "hapi": "^9.0.3",
     "inert": "^3.0.1",
-    "walmart": "0.0.2"
+    "walmart": "0.0.4"
   }
 }

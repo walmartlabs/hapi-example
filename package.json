@@ -10,7 +10,7 @@
   "author": "Jack Herrington <jherrington@walmartlabs.com>",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^9.0.3",
+    "hapi": "^18.1.0",
     "inert": "^3.0.1",
     "walmart": "0.0.2"
   }
